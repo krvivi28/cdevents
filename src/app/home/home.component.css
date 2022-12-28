@@ -59,3 +59,14 @@
         border: none;
     }
 }
+
+ul li a
+{
+    color: green;
+    cursor: pointer !important;
+}
+ul li a:hover
+{
+    color: green !important;
+    border-bottom: 1px solid white;
+}
